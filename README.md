@@ -7,21 +7,14 @@ Dashboard Previews
 
 Click the images below to view dashboards:
 
-Dashboard 1 — Overview
+### Dashboard 1 — Overview
+![Dashboard 1](https://raw.githubusercontent.com/aryanchuadhary/Uber-Trip-Analysis/main/Uber%20Trip%20Dashboard%201.png)
 
-[![Dashboard 1](https://raw.githubusercontent.com/.../Uber%20Trip%20Dashboard%201.png)](https://raw.githubusercontent.com/.../Uber%20Trip%20Dashboard%201.png)  
-*Main overview*
+### Dashboard 2 — Time Series & Trends
+![Dashboard 2](https://raw.githubusercontent.com/aryanchuadhary/Uber-Trip-Analysis/main/Uber%20Trip%20Dasboard%202.png)
 
-
-Dashboard 2 — Time Series & Trends
-[![Dashboard 2](https://raw.githubusercontent.com/.../Uber%20Trip%20Dasboard%202.png)](https://raw.githubusercontent.com/.../Uber%20Trip%20Dasboard%202.png)  
-*Time-series & trends*
-
-
-
-Dashboard 3 — Geospatial View
-[![Dashboard 3](https://raw.githubusercontent.com/.../Uber%20Trip%20Dashboard%203.png)](https://raw.githubusercontent.com/.../Uber%20Trip%20Dashboard%203.png)  
-*Map / geospatial view*
+### Dashboard 3 — Geospatial View
+![Dashboard 3](https://raw.githubusercontent.com/aryanchuadhary/Uber-Trip-Analysis/main/Uber%20Trip%20Dashboard%203.png)
 
 Key KPIs Used
 
